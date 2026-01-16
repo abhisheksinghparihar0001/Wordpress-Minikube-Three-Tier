@@ -1,1 +1,1 @@
-# Wordpress-Minikube-Three-Tier
+# Wordpress-Minikube-
